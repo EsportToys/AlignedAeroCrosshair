@@ -2,7 +2,7 @@
 
 These are just the default crosshair cursor files that Windows ships with, but with the misaligned hotspots fixed using RWCursorEditor.
 
-To replace, run 7zip with elevated priviledges (right click -> run as administrator) and use it to copy the three .cur files into the `C:/Windows/Cursors/` folder.
+To replace, run 7zip with elevated priviledges (right click -> run as administrator) and use it to copy the nine .cur files into the `C:/Windows/Cursors/` folder.
 
 ## Alignment
 
