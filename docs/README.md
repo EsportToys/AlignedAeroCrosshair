@@ -6,7 +6,7 @@ To replace, run 7zip with elevated priviledges (right click -> run as administra
 
 ## Alignment
 
-The hotspot is always placed at the bottomright pixel of the centermost 2x2 px cluster. For example, a 48x48 variant with row/columns #0...#47 will have the hotspot located at row#24-column#24.
+The hotspot will always be placed at the bottomright pixel of the centermost 2x2 px cluster. For example, a 48x48 variant with row/columns #0...#47 will have the hotspot located at row#24-column#24.
 
 The line segments will always be centered at the centermost 2x2 for even-thickness crosshairs, and for odd-thickness crosshairs it will be centered at the bottomright pixel of the centermost cluster. 
 
